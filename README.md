@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./asset/logo.png" width="60" alt="logo"> HERMES
+  <img src="./asset/logo.png" width="40" alt="logo"> HERMES
 </h1>
 
 **KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding**
