@@ -9,10 +9,20 @@
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://hermes-streaming.github.io/)
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2601.14724)
+<!-- [![HF Paper](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/OpenMOSS-Team/FutureOmni) -->
 
 </div>
 
-The code will be released soon. For any questions regarding the paper or the technical implementation, please feel free to contact haowei.zhang123@gmail.com
+The code will be released soon.
+
+
+---
+
+## 📧 Contact
+
+For any questions regarding the paper or the technical implementation, please feel free to contact haowei.zhang123@gmail.com
+
+---
 
 ## 📝 Citation
 
