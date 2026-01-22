@@ -11,7 +11,7 @@ The code will be released soon. For any questions regarding the paper or the tec
 
 ## 📝 Citation
 
-If you find our work useful for your research, please cite our paper and give us a precious star 😄:
+If you find our work useful for research, please cite our paper and give us a precious star 😄:
 
 ```bibtex
 @misc{zhang2026hermeskvcachehierarchical,
