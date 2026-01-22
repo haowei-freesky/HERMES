@@ -1,6 +1,6 @@
-![logo](./asset/logo.png)
-
-# HERMES
+<h1 align="center">
+  <img src="./asset/logo.png" width="80" alt="logo"> HERMES
+</h1>
 
 **KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding**
 
