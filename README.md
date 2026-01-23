@@ -13,7 +13,7 @@
 
 </div>
 
-The code will be released soon.
+The full refined code will be released soon.
 
 
 ## 📧 Contact
